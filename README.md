@@ -1,4 +1,4 @@
-[![Header](header.gif "Header")](https://braydonwang.github.io)
+[![Header](header.gif "Header")](https://nivedithareddyanumandlaportfolio.netlify.app/)
 
 <a href="https://www.linkedin.com/in/braydonwang/">
   <img align="right" alt="Niveditha's LinkedIn" width="32px" src="https://raw.githubusercontent.com/nivwya/nivwya/main/linkedin.svg" />
@@ -7,7 +7,7 @@
   <img align="right" alt="Niveditha's Email" width="32px" src="https://raw.githubusercontent.com/nivwya/nivwya/main/mail.png" />
 </a>
 
-<img src="#" height="30px"> Hi, I’m Niveditha!
+<img src="https://raw.githubusercontent.com/nivwya/nivwya/main/wave.gif" height="30px"> Hi, I’m Niveditha!
 ===============	
   
 I'm a **Computer Science** student at **NIT Surat.** I'm seeking **2027 New Grad SWE Opportunities**, feel free to reach out on LinkedIn or send me an email! (nivi.anr1707@gmail.com)
