@@ -1,6 +1,6 @@
 [![Header](header.gif "Header")](https://niveditha-five.vercel.app/)
 
-<a href="https://www.linkedin.com/in/niveditha-reddy-anumandla-5729a8309/">
+<a href="https://www.linkedin.com/in/niveditha-reddy-anumandla/">
   <img align="right" alt="Niveditha's LinkedIn" width="32px" src="https://raw.githubusercontent.com/nivwya/nivwya/main/linkedin.svg" />
 </a>
 <a href="mailto: nivi.anr1707@gmail.com">
