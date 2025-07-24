@@ -13,7 +13,7 @@
 I'm a **Computer Science** student at **NIT Surat.** I'm seeking **2026 Internship Opportunities**, feel free to reach out on LinkedIn or send me an email! (nivi.anr1707@gmail.com)
 
 I'm super passionate about using technology, problem solving, and creativity to build products that have an impact on the world.
-- 👔 Currently working as a SWE @ <ins>Al Mulla Grp. Kuwait</ins>
+- 🛠 Previously interned as a SWE @ <ins>Al Mulla Grp. Kuwait</ins>
 
 ## 🧱 Personal Projects
 
