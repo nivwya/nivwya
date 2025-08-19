@@ -1,6 +1,6 @@
 [![Header](header.gif "Header")](https://niveditha-reddy.vercel.app/)
 
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+<a href="">
   <img align="right" alt="Niveditha's LinkedIn" width="32px" src="https://raw.githubusercontent.com/nivwya/nivwya/main/linkedin.svg" />
 </a>
 <a href="mailto: nivi.anr1707@gmail.com">
