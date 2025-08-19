@@ -1,4 +1,4 @@
-[![Header](header.gif "Header")](https://niveditha-reddy.vercel.app/)
+[![Header](header2.gif "Header")](https://niveditha-reddy.vercel.app/)
 
 <a href="">
   <img align="right" alt="Niveditha's LinkedIn" width="32px" src="https://raw.githubusercontent.com/nivwya/nivwya/main/linkedin.svg" />
